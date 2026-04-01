@@ -24,5 +24,11 @@ El programa calcula y muestra el resultado.
 
 6.CAPTURAS DEL PROGRAMA EN EEJECUCION:
 <img width="1907" height="1002" alt="image" src="https://github.com/user-attachments/assets/6f4d91e3-3e85-45d5-89ad-82b7480780b3" />
+nos pide el numero
 
+<img width="1892" height="970" alt="image" src="https://github.com/user-attachments/assets/2669f3fc-5d96-4310-89e5-e1d71fc1746f" />
+ponemos un numero x y nos pide la operacion
 
+<img width="1873" height="963" alt="image" src="https://github.com/user-attachments/assets/1f79a31d-b1fd-4751-8748-b6432d0dca97" />
+ponemos la operacion y el otro numero y nos da el resultado
+33 / 3 = 11
